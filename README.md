@@ -62,7 +62,7 @@ To study while loops in python.
 5. To update the reversed number using rev=rev*10+digit.
 6. To remove the last digit from the oringinal number using num=num//10.
 7. To repeat from steps 4-7 until num becomes 0.
-8. To display the result(rev).
+8. To display the result(reversed number).
 9. End.
 # Algorithm 7.6- Part 1
 1. Start.
