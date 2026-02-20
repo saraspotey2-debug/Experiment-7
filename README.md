@@ -24,7 +24,7 @@ To study while loops in python.
 6. To repeat steps 3-5 until the condition becomes false.
 7. End.
 # Algorithm-7.2
-1. Start
+1. Start.
 2. To take the input(n) from the user.
 3. To initialise the variable with 1.
 4. To check condition i<=n using while statement.
