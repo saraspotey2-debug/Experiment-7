@@ -35,7 +35,7 @@ To study while loops in python.
 # Algorithm-7.3
 1. Start.
 2. To take input from the user.
-3. To initaialise fact by 1.
+3. To initialise fact by 1.
 4. To check condition if n>0 using while statement, if true multiply fact=fact*n.
 5. To decrease the value of n in each term by 1 using n=n-1.
 6. To repeat steps from 4-6 until n becomes 0.
@@ -44,7 +44,7 @@ To study while loops in python.
 # Algorithm-7.4- Method 1
 1. Start
 2. To input the number of terms(n).
-3. To intialise a=0, b=1 and i=1.
+3. To initialise a=0, b=1 and i=1.
 4. To check condition i<=n using while statement, if true print a.
 5. To calculate the nwxt term using the formula c=a+B.
 6. To Update the values from a=b and b=c.
