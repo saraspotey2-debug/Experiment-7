@@ -97,7 +97,7 @@ To study while loops in python.
 6. End.
 # Algorithm-7.7
 1. Start.
-2. To input a number and store it in variable num.
+2. To take input from the user and store it in variable num.
 3. To initialize a variable count with 0.
 4. To repeat while num > 0 using while statement.
 5. To increase count by 1 using count = count + 1.
@@ -105,10 +105,10 @@ To study while loops in python.
 7. To display the result(number of digits).
 8. End
 # Algorithm-7.8
-1. Start
+1. Start.
 2. To initialize variable i = 1.
 3. To repeat while i < 6 until statement false using while statement.
-4. To print the value of i
+4. To print the value of i.
 5. To check condition:if i == 3 using if then exit the loop using break and increment i by 1 using i = i + 1.
 6. End.
 # Algorithm 7.9
