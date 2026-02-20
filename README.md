@@ -7,14 +7,8 @@ To study while loops in python.
 3. The condition is checked before every iteration.If the condition is True, the loop body executes.When the condition becomes False, the loop stops.
 4. Flow of Execution- Start, check the condition, if the condition is True, execute the loop body, update the loop variable, go back to step 2 and if the condition becomes False, exit the loop.
 5. Key Characteristics- It is an entry-controlled loop (condition is checked first), it can execute zero or more times depending on the condition, used when the number of repetitions is unknown, the loop must contain a change in condition (like increment/decrement), otherwise it may result in an infinite loop.
-6. Types of while loops-
-   Simple while loop- Repeats until the condition becomes false.
-   Infinite while loop- Runs forever when the condition never becomes false.
-   Nested while loop- A while loop inside another while loop.
-7. Control Statements used with while loop
-   break- Terminates the loop immediately.
-   continue-Skips the current iteration and continues with the next.
-   else- The else block executes when the loop ends normally (not terminated by break).
+6. Types of while loops-Simple while loop- Repeats until the condition becomes false, Infinite while loop- Runs forever when the condition never becomes false and Nested while loop- A while loop inside another while loop.
+7. Control Statements used with while loop-Break- Terminates the loop immediately, Continue-Skips the current iteration and continues with the next and Else- The else block executes when the loop ends normally (not terminated by break).
 8. Fibonacci Series (in Python)-The Fibonacci series is a sequence of numbers where each number is the sum of the two previous numbers.It starts like-0, 1, 1, 2, 3, 5, 8, 13, 21, ...
 # Algorithm-7.1
 1. Start.
@@ -71,7 +65,7 @@ To study while loops in python.
 8. To display the result(rev).
 9. End.
 # Algorithm 7.6- Part 1
-1. Start
+1. Start.
 2. To take input(num) from the user.
 3. To store it in another variable temp.
 4. To intialise rev = 0.
@@ -83,7 +77,7 @@ To study while loops in python.
 10. Else it prints Not Palindrome
 11. End.
 # Algorithm 7.6- Part 2
-1. Start
+1. Start.
 2. To take input of string s from the user.
 3. To set two variables:i = 0 (start index) and j = len(s) - 1 (end index)
 4. To set is_palindrome = True
@@ -94,7 +88,7 @@ To study while loops in python.
 9. Else print No using else statement.
 10. End.
 # Algorithm- 7.6 Part 3
-1. Start
+1. Start.
 2. To input a string and store it in variable st.
 3. To reverse the string and create a new variable rev such that rev = reverse of st.
 4. To compare both strings and if st == rev then it print "Palindrome" uisng if statement.
