@@ -94,6 +94,7 @@ To study while loops in python.
 3. To reverse the string and create a new variable rev such that rev = reverse of st.
 4. To compare both strings and if st == rev then it print "Palindrome" uisng if statement.
 5. Else it prints "Not a Palindrome" using else statement.
+6. End.
 # Algorithm-7.7
 1. Start.
 2. To input a number and store it in variable num.
