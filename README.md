@@ -47,7 +47,7 @@ To study while loops in python.
 2. To take the input of the number of terms(n) from the user.
 3. To initialise a=0, b=1 and i=1.
 4. To check condition i<=n using while statement, if true print a.
-5. To calculate the nwxt term using the formula c=a+B.
+5. To calculate the next term using the formula c=a+b.
 6. To Update the values from a=b and b=c.
 7. To increase the number of i by 1.
 8. To repeat steps 4-8 until condition becomes false.
