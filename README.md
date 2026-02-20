@@ -44,7 +44,7 @@ To study while loops in python.
 8. End.
 # Algorithm-7.4- Method 1
 1. Start.
-2. To input the number of terms(n) from the user.
+2. To take the input the number of terms(n) from the user.
 3. To initialise a=0, b=1 and i=1.
 4. To check condition i<=n using while statement, if true print a.
 5. To calculate the nwxt term using the formula c=a+B.
