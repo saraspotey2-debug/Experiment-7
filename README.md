@@ -107,7 +107,7 @@ To study while loops in python.
 # Algorithm-7.8
 1. Start.
 2. To initialize variable i = 1.
-3. To repeat while i < 6 until statement false using while statement.
+3. To repeat while i < 6 until statement becomes false using while statement.
 4. To print the value of i.
 5. To check condition:if i == 3 using if then exit the loop using break and increment i by 1 using i = i + 1.
 6. End.
