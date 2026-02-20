@@ -29,7 +29,7 @@ To study while loops in python.
 3. To initialise the variable with 1.
 4. To check condition i<=n using while statement.
 5. If condition true it prints i.
-6. To increase i by by 1 using i+=1.
+6. To increase i by 1 using i+=1.
 7. To repeat steps 3-5 until the condition becomes false.
 8. End
 # Algorithm-7.3
