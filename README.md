@@ -42,7 +42,7 @@ To study while loops in python.
 7. To display the result(factorial).
 8. End.
 # Algorithm-7.4- Method 1
-1. Start
+1. Start.
 2. To input the number of terms(n).
 3. To initialise a=0, b=1 and i=1.
 4. To check condition i<=n using while statement, if true print a.
@@ -52,7 +52,7 @@ To study while loops in python.
 8. To repeat steps 4-8 until condition becomes false.
 9. End.
 # Algorithm-7.4 Method 2-Using Limit
-1. Start
+1. Start.
 2. To input the limit till which number you want.
 3. To initialise a=0 and b=1.
 4. To check the condition a<=limit using while statement, if true prints a.
