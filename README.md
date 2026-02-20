@@ -120,9 +120,9 @@ To study while loops in python.
 6. Else it increments i by 1,if loop ends without break (element not found) and prints "Element not found".
 7. End.
 # Algorithm 7.10
-1. Start
+1. Start.
 2. To initialize variable i = 0 and repeat while i < 10 using while statement.
-3. To increment i by 1 using i = i + 1
+3. To increment i by 1 using i = i + 1.
 4. To check if i is even and if i % 2 == 0 using if statement under while.
 5. To skip the remaining steps using continue otherwise it print the value of i using continue.
 6. End.
