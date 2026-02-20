@@ -17,7 +17,7 @@ To study while loops in python.
    else- The else block executes when the loop ends normally (not terminated by break).
 # Algorithm-7.1
 1. Start
-2. Intialise a variable with 1.
+2. Initialise a variable with 1.
 3. To check condition i<=5  using while statement.
 4. If condition true then it prints i.
 5. To increase i by by 1 using i+=1.
