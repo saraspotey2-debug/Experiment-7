@@ -116,7 +116,7 @@ To study while loops in python.
 2. To initialize the list.
 3. To take input of the element to search and store it in key.
 4. To initialize index variable i = 0 and to repeat while i < length of nums using while statement.
-5. If nums[i] == key then it prints "Element found at index" by i+1 and to exit loop using break.
+5. If nums[i] == key then it prints "Element found in index" by i+1 and to exit loop using break.
 6. Else it increments i by 1,if loop ends without break (element not found) and prints "Element not found".
 7. End.
 # Algorithm 7.10
