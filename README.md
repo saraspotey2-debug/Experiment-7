@@ -10,6 +10,7 @@ To study while loops in python.
 6. Types of while loops-Simple while loop- Repeats until the condition becomes false, Infinite while loop- Runs forever when the condition never becomes false and Nested while loop- A while loop inside another while loop.
 7. Control Statements used with while loop-Break- Terminates the loop immediately, Continue-Skips the current iteration and continues with the next and Else- The else block executes when the loop ends normally (not terminated by break).
 8. Fibonacci Series (in Python)-The Fibonacci series is a sequence of numbers where each number is the sum of the two previous numbers.It starts like-0, 1, 1, 2, 3, 5, 8, 13, 21, ...
+9. Palindrome (in Python)-A palindrome is a word, number, or sequence that reads the same forward and backward.Examples:121 → palindrome, madam → palindrome and 123 → not a palindrome.
 # Algorithm-7.1
 1. Start.
 2. Initialise a variable with 1.
@@ -74,7 +75,7 @@ To study while loops in python.
 7. To add it to reverse it using rev = rev * 10 + digit.
 8. To remove last digit using num = num // 10.
 9. To compare temp and rev,if equal then prints Palindrome.
-10. Else it prints Not Palindrome
+10. Else it prints Not Palindrome.
 11. End.
 # Algorithm 7.6- Part 2
 1. Start.
