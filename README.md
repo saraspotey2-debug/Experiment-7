@@ -16,7 +16,7 @@ To study while loops in python.
    continue-Skips the current iteration and continues with the next.
    else- The else block executes when the loop ends normally (not terminated by break).
 # Algorithm-7.1
-1. Start
+1. Start.
 2. Initialise a variable with 1.
 3. To check condition i<=5  using while statement.
 4. If condition true then it prints i.
