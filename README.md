@@ -103,7 +103,7 @@ To study while loops in python.
 5. To increase count by 1 using count = count + 1.
 6. To remove the last digit of the number using num = num // 10.
 7. To display the result(number of digits).
-8. End
+8. End.
 # Algorithm-7.8
 1. Start.
 2. To initialize variable i = 1.
