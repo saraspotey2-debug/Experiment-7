@@ -59,7 +59,7 @@ To study while loops in python.
 2. To take the input num from the user.
 3. To initialise rev=0.
 4. To check the condition if num>0, if true to find the last digit using digit=num%10.
-5. To update the reversed numberusing rev=rev*10+digit.
+5. To update the reversed number using rev=rev*10+digit.
 6. To remove the last digit from the oringinal number using num=num//10.
 7. To repeat from steps 4-7 until num becomes 0.
 8. To display the result(rev).
