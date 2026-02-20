@@ -15,6 +15,7 @@ To study while loops in python.
    break- Terminates the loop immediately.
    continue-Skips the current iteration and continues with the next.
    else- The else block executes when the loop ends normally (not terminated by break).
+8. Fibonacci Series (in Python)-The Fibonacci series is a sequence of numbers where each number is the sum of the two previous numbers.It starts like-0, 1, 1, 2, 3, 5, 8, 13, 21, ...
 # Algorithm-7.1
 1. Start.
 2. Initialise a variable with 1.
@@ -43,7 +44,7 @@ To study while loops in python.
 8. End.
 # Algorithm-7.4- Method 1
 1. Start.
-2. To input the number of terms(n).
+2. To input the number of terms(n) from the user.
 3. To initialise a=0, b=1 and i=1.
 4. To check condition i<=n using while statement, if true print a.
 5. To calculate the nwxt term using the formula c=a+B.
@@ -53,7 +54,7 @@ To study while loops in python.
 9. End.
 # Algorithm-7.4 Method 2-Using Limit
 1. Start.
-2. To input the limit till which number you want.
+2. To input the limit from the user till which number the user wants.
 3. To initialise a=0 and b=1.
 4. To check the condition a<=limit using while statement, if true prints a.
 5. To calculate the next terms using a, b=b and a+b.
