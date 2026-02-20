@@ -84,7 +84,7 @@ To study while loops in python.
 4. To set is_palindrome = True
 5. To repeat using while statement,if s[i] != s[j]
 6. To set is_palindrome = False using break loop.
-7. To increment i and decrement j by value of 1
+7. To increment i and decrement j by value of 1.
 8. If is_palindrome == True print Yes using if statement.
 9. Else print No using else statement.
 10. End.
