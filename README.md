@@ -6,7 +6,7 @@ To study while loops in python.
 2. A while loop repeatedly executes a block of code as long as the given condition evaluates to True.
 3. The condition is checked before every iteration.If the condition is True, the loop body executes.When the condition becomes False, the loop stops.
 4. Flow of Execution- Start, check the condition, if the condition is True, execute the loop body, update the loop variable, go back to step 2 and if the condition becomes False, exit the loop.
-5. Key Characteristics- It is an entry-controlled loop (condition is checked first), It can execute zero or more times depending on the condition, Used when the number of repetitions is unknown, The loop must contain a change in condition (like increment/decrement), otherwise it may result in an infinite loop.
+5. Key Characteristics- It is an entry-controlled loop (condition is checked first), it can execute zero or more times depending on the condition, used when the number of repetitions is unknown, the loop must contain a change in condition (like increment/decrement), otherwise it may result in an infinite loop.
 6. Types of while loops-
    Simple while loop- Repeats until the condition becomes false.
    Infinite while loop- Runs forever when the condition never becomes false.
@@ -54,7 +54,7 @@ To study while loops in python.
 9. End.
 # Algorithm-7.4 Method 2-Using Limit
 1. Start.
-2. To input the limit from the user till which number the user wants.
+2. To take the input of the limit from the user till which number the user wants.
 3. To initialise a=0 and b=1.
 4. To check the condition a<=limit using while statement, if true prints a.
 5. To calculate the next terms using a, b=b and a+b.
