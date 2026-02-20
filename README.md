@@ -124,7 +124,7 @@ To study while loops in python.
 2. To initialize variable i = 0 and repeat while i < 10 using while statement.
 3. To increment i by 1 using i = i + 1.
 4. To check if i is even and if i % 2 == 0 using if statement under while.
-5. To skip the remaining steps using continue otherwise it print the value of i using continue.
+5. To skip the remaining steps use continue otherwise it prints the value of i using continue.
 6. End.
 # Conclusion
 The while loop in Python is used to execute a block of code repeatedly as long as a given condition is true. It is an entry-controlled loop, meaning the condition is checked before each iteration. It is especially useful when the number of repetitions is not known in advance. Proper updating of the condition is important to avoid infinite loops.
