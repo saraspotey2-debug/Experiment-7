@@ -5,7 +5,7 @@ To study while loops in python.
 1. A while loop is a control structure in Python that allows a set of statements to be executed repeatedly based on a condition. It is mainly used when the number of iterations is not known in advance and depends on a condition being true.
 2. A while loop repeatedly executes a block of code as long as the given condition evaluates to True.
 3. The condition is checked before every iteration.If the condition is True, the loop body executes.When the condition becomes False, the loop stops.
-4. Flow of Execution- Start, Check the condition, If the condition is True, execute the loop body, Update the loop variable, Go back to step 2 and If the condition becomes False, exit the loop.
+4. Flow of Execution- Start, Check the condition, if the condition is True, execute the loop body, update the loop variable, go back to step 2 and if the condition becomes False, exit the loop.
 5. Key Characteristics- It is an entry-controlled loop (condition is checked first), It can execute zero or more times depending on the condition, Used when the number of repetitions is unknown, The loop must contain a change in condition (like increment/decrement), otherwise it may result in an infinite loop.
 6. Types of while loops-
    Simple while loop- Repeats until the condition becomes false.
@@ -48,7 +48,7 @@ To study while loops in python.
 3. To initialise a=0, b=1 and i=1.
 4. To check condition i<=n using while statement, if true print a.
 5. To calculate the next term using the formula c=a+b.
-6. To Update the values from a=b and b=c.
+6. To update the values from a=b and b=c.
 7. To increase the number of i by 1.
 8. To repeat steps 4-8 until condition becomes false.
 9. End.
